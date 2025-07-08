@@ -23,5 +23,5 @@ A simple terminal-based Hangman game with a twist — each new word continues a 
 - Language: C++
 - Platform: Terminal / Command Line Interface (CLI)
 
-## 🧩 Example Gameplay
+
 
